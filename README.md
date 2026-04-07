@@ -32,7 +32,7 @@ A sleek Chrome DevTools extension for debugging and monitoring custom tracking e
 
 ### Option A: Download ZIP (Easiest - No Git Required)
 
-1. Go to the [GitHub repository](<your-repo-url>)
+1. Go to the [GitHub repository](https://github.com/danpierce1/tracking_inspector)
 2. Click the green **"Code"** button
 3. Click **"Download ZIP"**
 4. Extract the ZIP file to a folder on your computer
@@ -41,7 +41,7 @@ A sleek Chrome DevTools extension for debugging and monitoring custom tracking e
 ### Option B: Clone with Git
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/danpierce1/tracking_inspector
 cd tracking_inspector
 ```
 
