@@ -1,0 +1,12 @@
+# Claude Code local settings
+.claude/
+
+# macOS
+.DS_Store
+
+# Development
+*.log
+
+# Screenshot placeholders (remove this line once you add actual screenshots)
+.github/screenshots/*.png
+!.github/screenshots/README.md
