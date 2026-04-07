@@ -49,18 +49,9 @@ cd tracking_inspector
 
 1. Open Chrome and navigate to `chrome://extensions/`
 2. Enable **Developer mode** (toggle in the top-right corner)
-
-   ![Developer Mode Toggle](.github/screenshots/developer-mode.png)
-
 3. Click **"Load unpacked"**
-
-   ![Load Unpacked Button](.github/screenshots/load-unpacked.png)
-
 4. Select the `tracking_inspector` directory
-
 5. The extension icon should appear in your extensions list
-
-   ![Extension Loaded](.github/screenshots/extension-loaded.png)
 
 ### 3. Open DevTools
 
